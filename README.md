@@ -1,2 +1,6 @@
 # olakino-backend
-Training Tracking Backend
+OLAKINO(Diet and Exercise Tracking/Management System) Backend 
+
+Arda Atasoy 
+Egemen Gündüz
+
